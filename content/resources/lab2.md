@@ -4,7 +4,12 @@ description: 'This file contains the information on the topic: Photography and t
   Construction of Visual Arguments.'
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/11-204-planning-communications-and-digital-media-fall-2004/5b54a83bfb59a47d1b84aa291721b802_lab2.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: lab2.pdf
+type: OCWFile
 uid: 5b54a83b-fb59-a47d-1b84-aa291721b802
 ---
