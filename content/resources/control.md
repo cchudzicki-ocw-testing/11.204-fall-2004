@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: control.pdf
-type: OCWFile
 uid: f24ecb21-47bd-c517-01a0-d505dfa6a227
 ---

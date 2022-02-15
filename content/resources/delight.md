@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: delight.pdf
-type: OCWFile
 uid: 10260513-de5d-c307-5e77-2a952b79bcc5
 ---

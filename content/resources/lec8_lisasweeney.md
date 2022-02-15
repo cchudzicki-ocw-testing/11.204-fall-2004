@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: lec8_lisasweeney.pdf
-type: OCWFile
 uid: 5804b56f-f0f9-e673-4f77-6fa727efe942
 ---

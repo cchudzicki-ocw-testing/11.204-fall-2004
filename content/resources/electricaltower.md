@@ -10,6 +10,5 @@ image_metadata:
 learning_resource_types: []
 resourcetype: Image
 title: electricaltower.jpg
-type: OCWImage
 uid: c28ad27e-c929-94c5-007e-fbcedea61393
 ---

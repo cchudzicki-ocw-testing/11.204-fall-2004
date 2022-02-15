@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: legibility.pdf
-type: OCWFile
 uid: 5bb873a2-2570-9945-4982-15cba4bdad36
 ---

@@ -10,6 +10,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: lab5_help.pdf
-type: OCWFile
 uid: ca24fa44-85a2-907f-1298-01e4e88014ea
 ---

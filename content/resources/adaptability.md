@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: adaptability.pdf
-type: OCWFile
 uid: 0efd3a9c-fafb-7973-cd89-8e06d69579e3
 ---

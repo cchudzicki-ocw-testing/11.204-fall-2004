@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: justice.pdf
-type: OCWFile
 uid: a1c7113a-e93e-ed7b-7a6a-f6fe1730a3cb
 ---

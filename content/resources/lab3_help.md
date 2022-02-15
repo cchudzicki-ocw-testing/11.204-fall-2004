@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: lab3_help.pdf
-type: OCWFile
 uid: 339d49df-f23a-ff5f-7e86-7c9bdf9809c9
 ---

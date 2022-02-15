@@ -10,6 +10,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: proj2.pdf
-type: OCWFile
 uid: dc67ce3f-c600-e530-d50e-4c5076bd8495
 ---

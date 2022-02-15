@@ -9,6 +9,5 @@ parent_title: Recitations
 parent_type: CourseSection
 resourcetype: Document
 title: rec5slides.pdf
-type: OCWFile
 uid: 22bd217a-6c57-8891-759f-92f57ff6fe20
 ---

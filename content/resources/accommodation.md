@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: accommodation.pdf
-type: OCWFile
 uid: 7a21de43-e46b-d50d-39b5-8becec6b9b1c
 ---

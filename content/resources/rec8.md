@@ -9,6 +9,5 @@ parent_title: Recitations
 parent_type: CourseSection
 resourcetype: Document
 title: rec8.pdf
-type: OCWFile
 uid: 82231aa4-ca1c-d1f1-7694-c29a858311ed
 ---

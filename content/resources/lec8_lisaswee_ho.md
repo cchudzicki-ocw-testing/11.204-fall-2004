@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: lec8_lisaswee_ho.pdf
-type: OCWFile
 uid: d34dba4d-de83-2360-2ad0-5d7a1d25c56e
 ---

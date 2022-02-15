@@ -9,6 +9,5 @@ parent_title: Recitations
 parent_type: CourseSection
 resourcetype: Other
 title: rec4excel.xls
-type: OCWFile
 uid: 102df5db-f676-2693-5717-31aa65f7ba1d
 ---

@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: access.pdf
-type: OCWFile
 uid: 08bb9bf6-b1a7-3cf0-b6d5-fe7ea5d7b186
 ---

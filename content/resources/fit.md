@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: fit.pdf
-type: OCWFile
 uid: 66290b86-47f9-398f-dba8-fe20c6f97acc
 ---

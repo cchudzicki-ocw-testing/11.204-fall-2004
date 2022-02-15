@@ -9,6 +9,5 @@ parent_title: Recitations
 parent_type: CourseSection
 resourcetype: Other
 title: rec4database.dbf
-type: OCWFile
 uid: 6f240495-52bf-173f-2302-039101c19a57
 ---

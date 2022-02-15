@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: proj2_eval_crit.pdf
-type: OCWFile
 uid: ab694bc7-914a-7f00-3e01-7eaa943977bf
 ---
