@@ -5,6 +5,7 @@ file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/11-204-plann
 file_type: application/octet-stream
 learning_resource_types:
 - Recitations
+ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
 resourcetype: Other

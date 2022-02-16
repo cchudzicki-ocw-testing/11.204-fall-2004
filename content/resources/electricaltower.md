@@ -8,6 +8,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+ocw_type: OCWImage
 resourcetype: Image
 title: electricaltower.jpg
 uid: c28ad27e-c929-94c5-007e-fbcedea61393

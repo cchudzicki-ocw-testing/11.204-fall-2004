@@ -9,6 +9,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+ocw_type: OCWImage
 resourcetype: Image
 title: chp_11204_screenshots_1.jpg
 uid: ef281ce6-1c5f-f8de-690d-eccee435d029
