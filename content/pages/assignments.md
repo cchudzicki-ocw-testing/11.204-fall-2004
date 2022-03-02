@@ -34,10 +34,10 @@ HELP FILES
 Lab 1
 {{< tdclose >}}
 {{< tdopen >}}
-WWW Portal Page Building ({{< resource_link 7a3a74de-215d-7de8-eaf5-1188aec76594 "PDF" >}})
+WWW Portal Page Building ({{% resource_link 7a3a74de-215d-7de8-eaf5-1188aec76594 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link 9a645850-5b3f-437d-9a61-61d660b544c5 "PDF" >}})
+({{% resource_link 9a645850-5b3f-437d-9a61-61d660b544c5 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -46,10 +46,10 @@ WWW Portal Page Building ({{< resource_link 7a3a74de-215d-7de8-eaf5-1188aec76594
 Lab 2
 {{< tdclose >}}
 {{< tdopen >}}
-Visual Representation and Analysis of Place ({{< resource_link 5b54a83b-fb59-a47d-1b84-aa291721b802 "PDF" >}})
+Visual Representation and Analysis of Place ({{% resource_link 5b54a83b-fb59-a47d-1b84-aa291721b802 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link 27913a21-ebd5-3b6f-3f81-afccfd4bdfc7 "PDF" >}})
+({{% resource_link 27913a21-ebd5-3b6f-3f81-afccfd4bdfc7 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -58,10 +58,10 @@ Visual Representation and Analysis of Place ({{< resource_link 5b54a83b-fb59-a47
 Lab 3
 {{< tdclose >}}
 {{< tdopen >}}
-Using Excel to Understand Population Change ({{< resource_link aefae741-5150-ed47-9ec8-721635742ab4 "PDF" >}})
+Using Excel to Understand Population Change ({{% resource_link aefae741-5150-ed47-9ec8-721635742ab4 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link 339d49df-f23a-ff5f-7e86-7c9bdf9809c9 "PDF - 2.7 MB" >}})
+({{% resource_link 339d49df-f23a-ff5f-7e86-7c9bdf9809c9 "PDF - 2.7 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -70,10 +70,10 @@ Using Excel to Understand Population Change ({{< resource_link aefae741-5150-ed4
 Lab 4
 {{< tdclose >}}
 {{< tdopen >}}
-Using ArcGIS™ to Visualize Population Density ({{< resource_link 56830332-1af8-32de-290d-97aa4133f7af "PDF" >}})
+Using ArcGIS™ to Visualize Population Density ({{% resource_link 56830332-1af8-32de-290d-97aa4133f7af "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link 2572be03-f4c1-c574-1b4e-fcbd11bd7469 "PDF - 2.8 MB" >}})
+({{% resource_link 2572be03-f4c1-c574-1b4e-fcbd11bd7469 "PDF - 2.8 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -82,10 +82,10 @@ Using ArcGIS™ to Visualize Population Density ({{< resource_link 56830332-1af8
 Lab 5
 {{< tdclose >}}
 {{< tdopen >}}
-Using Access to Query Multiple Data Sets ({{< resource_link 9847625c-749c-9ffc-18d9-d42c382de16e "PDF" >}})
+Using Access to Query Multiple Data Sets ({{% resource_link 9847625c-749c-9ffc-18d9-d42c382de16e "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link ca24fa44-85a2-907f-1298-01e4e88014ea "PDF - 1.6 MB" >}})
+({{% resource_link ca24fa44-85a2-907f-1298-01e4e88014ea "PDF - 1.6 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -94,10 +94,10 @@ Using Access to Query Multiple Data Sets ({{< resource_link 9847625c-749c-9ffc-1
 Lab 6
 {{< tdclose >}}
 {{< tdopen >}}
-Using GIS Tools to Compare Two Aspects of Central Square ({{< resource_link 13dc0035-f11b-801f-bc74-e4a47ac65eb3 "PDF" >}})
+Using GIS Tools to Compare Two Aspects of Central Square ({{% resource_link 13dc0035-f11b-801f-bc74-e4a47ac65eb3 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link c494edfb-6535-f0e3-9c87-199cd00ab38f "PDF - 2.2 MB" >}})
+({{% resource_link c494edfb-6535-f0e3-9c87-199cd00ab38f "PDF - 2.2 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -106,7 +106,7 @@ Using GIS Tools to Compare Two Aspects of Central Square ({{< resource_link 13dc
 Project 1
 {{< tdclose >}}
 {{< tdopen >}}
-Web-based Planning Portfolio ({{< resource_link 5950a789-e6a6-a7e1-0348-73ad96fc36c6 "PDF" >}})
+Web-based Planning Portfolio ({{% resource_link 5950a789-e6a6-a7e1-0348-73ad96fc36c6 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -118,9 +118,9 @@ Web-based Planning Portfolio ({{< resource_link 5950a789-e6a6-a7e1-0348-73ad96fc
 Project 2
 {{< tdclose >}}
 {{< tdopen >}}
-Exploring, Analyzing, and Describing a Massachusetts Town ({{< resource_link dc67ce3f-c600-e530-d50e-4c5076bd8495 "PDF" >}})  
+Exploring, Analyzing, and Describing a Massachusetts Town ({{% resource_link dc67ce3f-c600-e530-d50e-4c5076bd8495 "PDF" %}})  
   
-Evaluation Criteria ({{< resource_link ab694bc7-914a-7f00-3e01-7eaa943977bf "PDF" >}})
+Evaluation Criteria ({{% resource_link ab694bc7-914a-7f00-3e01-7eaa943977bf "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  

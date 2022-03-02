@@ -41,7 +41,7 @@ RECITATION NOTES
 Macromedia® Dreamweaver®
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link 2cb076a8-9ef9-4c77-abfd-3036c1535935 "PDF" >}})
+({{% resource_link 2cb076a8-9ef9-4c77-abfd-3036c1535935 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -53,7 +53,7 @@ Macromedia® Dreamweaver®
 Adobe® Photoshop®
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link 06287311-c337-3d26-0604-5c4ee7091490 "PDF" >}})
+({{% resource_link 06287311-c337-3d26-0604-5c4ee7091490 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -65,7 +65,7 @@ Adobe® Photoshop®
 Dreamweaver® and Photoshop®
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link d316ebee-dc34-4134-2705-96adf1ace887 "PDF" >}})
+({{% resource_link d316ebee-dc34-4134-2705-96adf1ace887 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -92,11 +92,11 @@ Sample Data Microsoft® Access
 
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link 817fd563-7fb3-dc81-d876-d46646f0f496 "PDF" >}})  
+({{% resource_link 817fd563-7fb3-dc81-d876-d46646f0f496 "PDF" %}})  
   
-({{< resource_link 102df5db-f676-2693-5717-31aa65f7ba1d "XLS" >}})  
+({{% resource_link 102df5db-f676-2693-5717-31aa65f7ba1d "XLS" %}})  
   
-({{< resource_link 6f240495-52bf-173f-2302-039101c19a57 "DBF" >}})
+({{% resource_link 6f240495-52bf-173f-2302-039101c19a57 "DBF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -114,9 +114,9 @@ Slides
 
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link 386f0d9b-8a1a-5c53-5842-8958916dbe7e "PDF" >}})  
+({{% resource_link 386f0d9b-8a1a-5c53-5842-8958916dbe7e "PDF" %}})  
   
-({{< resource_link 22bd217a-6c57-8891-759f-92f57ff6fe20 "PDF" >}})
+({{% resource_link 22bd217a-6c57-8891-759f-92f57ff6fe20 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -128,7 +128,7 @@ Slides
 Microsoft® Access
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link b98179d6-f2c4-db23-108e-a932aa593b17 "PDF" >}})
+({{% resource_link b98179d6-f2c4-db23-108e-a932aa593b17 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -140,7 +140,7 @@ Microsoft® Access
 ArcGIS™ and Access
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link 6ede03dc-0f60-4ce5-0ee1-da5a9c8808df "PDF" >}})
+({{% resource_link 6ede03dc-0f60-4ce5-0ee1-da5a9c8808df "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -158,7 +158,7 @@ ArcGIS™ and Access
 Introduction to Project 2
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link 82231aa4-ca1c-d1f1-7694-c29a858311ed "PDF" >}})
+({{% resource_link 82231aa4-ca1c-d1f1-7694-c29a858311ed "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -170,7 +170,7 @@ Introduction to Project 2
 Project Work
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link ca8b3afb-7d4c-86c4-1273-e3358275a8f7 "PDF - 2.0 MB" >}})
+({{% resource_link ca8b3afb-7d4c-86c4-1273-e3358275a8f7 "PDF - 2.0 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -182,7 +182,7 @@ Project Work
 Project Work
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link 3a33955f-e7ea-81af-76b9-348fc0c77b5f "PDF" >}})
+({{% resource_link 3a33955f-e7ea-81af-76b9-348fc0c77b5f "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
