@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/11-204-planning-communications-and-digital-media-fall-2004/c494edfb6535f0e39c87199cd00ab38f_lab6_help.pdf
+file: /courses/11-204-planning-communications-and-digital-media-fall-2004/c494edfb6535f0e39c87199cd00ab38f_lab6_help.pdf
 file_type: application/pdf
 learning_resource_types:
 - Assignments

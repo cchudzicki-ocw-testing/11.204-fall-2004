@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/11-204-planning-communications-and-digital-media-fall-2004/ca8b3afb7d4c86c41273e3358275a8f7_rec9.pdf
+file: /courses/11-204-planning-communications-and-digital-media-fall-2004/ca8b3afb7d4c86c41273e3358275a8f7_rec9.pdf
 file_type: application/pdf
 learning_resource_types:
 - Recitations
