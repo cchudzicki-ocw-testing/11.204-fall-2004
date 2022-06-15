@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: Assignments section contains the topics to be covered in the labs along
+  with the lab help files and projects information.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
